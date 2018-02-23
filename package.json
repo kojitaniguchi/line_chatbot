@@ -1,0 +1,18 @@
+{
+  "name": "sushi-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@line/bot-sdk": "^5.2.0",
+    "apiai-promisified": "^1.0.1",
+    "bot-express": "^0.2.17",
+    "express": "^4.16.2"
+  }
+}
